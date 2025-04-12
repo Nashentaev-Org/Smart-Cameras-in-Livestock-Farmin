@@ -2,6 +2,7 @@
 
 ![rollende-koe-rolling-cow](https://github.com/user-attachments/assets/8a58de7e-0070-4406-a81a-59902821d5c4)
 ![llama3dplz-mrllamasc](https://github.com/user-attachments/assets/1699f729-08c8-4f4b-a8a3-0db4b7fd974d)
+![minecraft](https://github.com/user-attachments/assets/68eafdc8-7506-4010-9e6e-21765cd338ee)
 
 # How AI, ML, and IoT Are Transforming the Industry
 
