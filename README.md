@@ -1,12 +1,12 @@
 # Smart-Cameras-in-Livestock-Farmin:
 
-![rollende-koe-rolling-cow](https://github.com/user-attachments/assets/8a58de7e-0070-4406-a81a-59902821d5c4)
-![llama3dplz-mrllamasc](https://github.com/user-attachments/assets/1699f729-08c8-4f4b-a8a3-0db4b7fd974d)
 ![minecraft](https://github.com/user-attachments/assets/68eafdc8-7506-4010-9e6e-21765cd338ee)
 
 # How AI, ML, and IoT Are Transforming the Industry
 
 Agriculture is one of the oldest sectors of human activity, and despite its importance, it has long remained relatively traditional. However, the last few decades have brought significant changes, largely thanks to the introduction of innovative technologies such as **artificial intelligence (AI)**, **machine learning (ML)**, and **Internet of Things (IoT)**. One of the most prominent examples of technology in agriculture is the use of **smart cameras**, which play a key role in monitoring the health and behavior of animals. In this article, we will explore how these devices can enhance the efficiency of farming operations and improve conditions for livestock.
+
+![llama3dplz-mrllamasc](https://github.com/user-attachments/assets/1699f729-08c8-4f4b-a8a3-0db4b7fd974d)
 
 ## What Are Smart Cameras?
 
@@ -25,6 +25,8 @@ Each smart camera is equipped with high-sensitivity sensors and built-in algorit
 - **Feeding Control**: Cameras monitor the amount of time animals spend at feeders. If an animal isn’t eating, it could indicate a problem, such as faulty feed or a health issue.
 
 - **Aggression or Stress Detection**: Smart cameras can observe livestock behavior in the pasture or barn and recognize signs of stress, aggression, or isolation. This is critical for preventing injuries or illnesses that may arise from stress.
+
+![rollende-koe-rolling-cow](https://github.com/user-attachments/assets/8a58de7e-0070-4406-a81a-59902821d5c4)
 
 ## Benefits of Smart Cameras in Livestock Farming
 
