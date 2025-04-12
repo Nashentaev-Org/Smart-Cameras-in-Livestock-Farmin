@@ -1,6 +1,7 @@
 # Smart-Cameras-in-Livestock-Farmin:
 
 ![rollende-koe-rolling-cow](https://github.com/user-attachments/assets/8a58de7e-0070-4406-a81a-59902821d5c4)
+![llama3dplz-mrllamasc](https://github.com/user-attachments/assets/1699f729-08c8-4f4b-a8a3-0db4b7fd974d)
 
 # How AI, ML, and IoT Are Transforming the Industry
 
@@ -69,8 +70,6 @@ Machine learning is a method where the camera learns from the data it collects. 
 ### 3. Internet of Things (IoT)
 
 Cameras can be part of a larger ecosystem of connected devices. Sensors for temperature, humidity, and oxygen levels can transmit data to the system, allowing farmers to monitor the animals' condition not only based on their behavior but also based on environmental conditions.
-
-![llama3dplz-mrllamasc](https://github.com/user-attachments/assets/1699f729-08c8-4f4b-a8a3-0db4b7fd974d)
 
 ## Conclusion
 
